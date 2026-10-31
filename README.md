@@ -1,4 +1,4 @@
-
+-->Status Notice (Late October 2026) - this repository is temporarily paused while i focus 100% on my ongoing BTech Internal Exams . Daily sprints, Google Colab logs, and code commits will resume immediately once my papers conclude! 📚🚀
 # 🚀 100 Days of AI & Data Science (B.Tech Journey)
 
 Welcome to my learning tracking repository! Coming from a 12th-grade biology background, I am using this space to document my daily coding, engineering mathematics, and building pipelines as a B.Tech student.
